@@ -1,0 +1,2 @@
+rootProject.name='Train Tracker'
+include ':app'
